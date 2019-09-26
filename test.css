@@ -1,0 +1,14 @@
+#b{
+    background-color:yellow;
+    width: 10em;
+}
+
+#text{
+    height: 2em;
+    width: 10em;
+}
+nav{
+    color: rgb(24, 19, 19);
+    background-color: pink;
+    padding: 1em;
+}
