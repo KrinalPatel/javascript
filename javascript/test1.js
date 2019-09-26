@@ -6,7 +6,7 @@ function palindrome() {
     // str = str.join('');
 
     if (inpString == str) {
-        console.log(1212);
+        console.log("Palindrome");
         alert(str + " " + "is a pali");
     } else {
         console.log("not palindrome");
